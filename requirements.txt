@@ -1,0 +1,13 @@
+streamlit
+spacy
+transformers 
+fpdf 
+PyPDF2 
+openai 
+pytest-cov 
+flake8
+pip-audit 
+requests
+beautifulsoup4 
+readability-lxml 
+trafilatura 
